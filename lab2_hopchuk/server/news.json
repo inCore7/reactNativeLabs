@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet",
+      "date": "Apr 20, 2023",
+      "image": "https://picsum.photos/id/237/200/300"
+    },
+    {
+      "id": 2,
+      "title": "Consectetur adipiscing elit",
+      "date": "Apr 19, 2023",
+      "image": "https://picsum.photos/id/238/200/300"
+    },
+    {
+      "id": 3,
+      "title": "Sed do eiusmod tempor incididunt",
+      "date": "Apr 18, 2023",
+      "image": "https://picsum.photos/id/239/200/300"
+    }
+  ]
+}
